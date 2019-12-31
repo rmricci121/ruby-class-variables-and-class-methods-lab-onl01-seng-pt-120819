@@ -7,7 +7,7 @@ class Song
   
   def intialize 
     @@count += 1 
-    @@genre << 
+    @@genre 
   end
   
   
